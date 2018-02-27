@@ -14,6 +14,7 @@ pages:
   - npm install hexo-abbrlink --save
   - npm install hexo-filter-github-emojis --save
 
+
   - ./node_modules/hexo/bin/hexo generate
   artifacts:
     paths:
